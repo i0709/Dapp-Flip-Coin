@@ -17,4 +17,5 @@ Requirements
  5. Go to browser with MetaMask installed ( http://localhost:8000/)
  
  This application was created only for learning purpose
+ Result: project.gif
  
